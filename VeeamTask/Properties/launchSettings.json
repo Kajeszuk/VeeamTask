@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VeeamTask": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\siebi\\Desktop\\magisterka egzamin\" \"C:\\Users\\siebi\\Desktop\\v2\" 10 \"C:\\Users\\siebi\\Desktop\\logger.txt\" "
+    }
+  }
+}
